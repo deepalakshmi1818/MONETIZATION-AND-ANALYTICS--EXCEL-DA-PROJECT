@@ -1,0 +1,2 @@
+# YOUTUBE VIDEO MONETIZATION REVISION <EXCEL>
+This project transforms raw digital video metrics into an interactive, decision-ready analytics dashboard. It covers the end-to-end data pipeline—from structural data cleaning and advanced formula modeling to dynamic business intelligence reporting. The primary objective is to evaluate current revenue frameworks, simulate progressive financial updates, and highlight market-leading creators
