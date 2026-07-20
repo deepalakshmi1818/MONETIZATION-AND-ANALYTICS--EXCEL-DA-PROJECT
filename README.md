@@ -1,5 +1,5 @@
 # Advanced excel project <EXCEL>
-# YouTube Creator Monetization & Growth Strategy 🚀
+# YouTube Creator Monetization & Growth Strategy 🚀 <img width="895" height="1900" alt="IMG_4356" src="https://github.com/user-attachments/assets/17886a5e-07a1-4648-be15-6cafb1cb8b44" />
 
 An Excel-based analytical framework and interactive dashboard designed to address the audience engagement gap in Indian YouTube content. This project models category-aware monetization rate rebalancing and peer-to-peer knowledge-transfer initiatives to optimize creator growth and platform revenue without needing a platform-wide rate increase.
 
